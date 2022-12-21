@@ -1,7 +1,3 @@
-![Metrics](https://github.com/JustinLung/JustinLung/blob/main/github-metrics.svg)
-
-- 💻 Intressted in webdevelopment
-- 🍊 I love Svelte!
-- 🦋 I’m currently learning React!
-- 🤌 Great in Collaborating with other people!
-- 💬 Add me on Discord: JUSTIN#6904 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
