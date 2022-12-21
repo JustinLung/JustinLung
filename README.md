@@ -28,6 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justinlung&show_icons=true&locale=en&layout=compact" alt="justinlung" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justinlung&show_icons=true&locale=en" alt="justinlung" /></p>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinLung&show_icons=true&theme=radical)
