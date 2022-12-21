@@ -30,6 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justinlung&show_icons=true&locale=en" alt="justinlung" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justinlung&" alt="justinlung" /></p>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinLung&show_icons=true&theme=radical)
