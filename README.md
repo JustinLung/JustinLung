@@ -2,6 +2,6 @@
 
 - 💻 Intressted in webdevelopment
 - 🍊 I love Svelte!
-- 🦋 I’m currently learning React!
+- 🦋 I’m currently learning Nextjs!
 - 🤌 Great in Collaborating with other people!
 - 💬 Add me on Discord: JUSTIN#6904 
