@@ -1,6 +1,6 @@
 ![Metrics](https://github.com/JustinLung/JustinLung/blob/main/github-metrics.svg)
 
-- 💻 Intressted in webdevelopment
+- 💻 Creative Frontend Developer
 - 🍊 I love Svelte!
 - 🦋 I’m currently learning Three.js!
 - 🤌 Great in Collaborating with other people!
