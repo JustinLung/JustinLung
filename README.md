@@ -2,6 +2,6 @@
 
 - 💻 Creative Frontend Developer
 - 🍊 I love Svelte!
-- 🦋 I’m currently learning PhP & Wordpress!
+- 🦋 I’m currently learning Angular!
 - 🤌 Great in Collaborating with other people!
 - 💬 Add me on Discord: JUSTIN#6904 
